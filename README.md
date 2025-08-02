@@ -4,4 +4,4 @@ Estado del proyecto : en construccion
 
 para ejecutar el sistema debes poner 
 
-"apps intall react" 
+"apps intall react"  
